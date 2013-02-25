@@ -1,5 +1,5 @@
 # include "data_base.h"
-
+using namespace db;
 int main(){
  
   Usuario user1("fuken1",1111,1),user2("fuken2",2222,1),
