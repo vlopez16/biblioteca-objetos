@@ -1,7 +1,7 @@
 #include "data_base.h"
 
 
-//using namespace std;
+using namespace db;
 
 data_base::data_base(){
 }
